@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "cSpell.words": ["holo", "persistor"],
+  "cSpell.ignoreRegExpList": ["/[\\u0621-\\u064A]+/"]
+}
