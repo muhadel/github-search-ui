@@ -54,11 +54,11 @@ const InputRow = styled.div`
   max-width: 500px;
 `;
 
-interface SearchBarProps {
+interface GitHubSearchBarProps {
   onSearch: (query: string, type: SearchType) => void;
 }
 
-const SearchBar = ({ onSearch }: SearchBarProps) => {
+const GitHubSearchBar = ({ onSearch }: GitHubSearchBarProps) => {
   const [query, setQuery] = useState('');
   const [searchType, setSearchType] = useState<SearchType>('users');
 
@@ -102,4 +102,4 @@ const SearchBar = ({ onSearch }: SearchBarProps) => {
   );
 };
 
-export default SearchBar;
+export default GitHubSearchBar;

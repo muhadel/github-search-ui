@@ -1,3 +1,3 @@
-import GitHubDropdown from './GitHubDropdown';
+import GitHubSearchBar from './GitHubSearchBar';
 
-export default GitHubDropdown;
+export default GitHubSearchBar;
