@@ -1,10 +1,10 @@
-# Holo Frontend Task
+# Github Search UI
 
 ---
 
 ## Table of Contents
 
-- [Holo Frontend Task](#holo-frontend-task)
+- [Github Search UI](#github-search-ui)
   - [Table of Contents](#table-of-contents)
   - [Quick Demo](#quick-demo)
   - [Overview](#overview)
